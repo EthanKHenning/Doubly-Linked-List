@@ -1,0 +1,14 @@
+aaaaaa
+CHARLIE
+Delta
+Alpha
+ddddddddd
+echO
+Foxtrot
+bravo
+zzzzzzz
+
+
+delete aaAAaa
+delete DdddddddD
+delete zzzzzzz
